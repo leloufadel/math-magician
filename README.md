@@ -157,12 +157,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-<!-- 
+
 - [ ] **[Scientific_Calculations]**
 - [ ] **[Calculations_History]**
 - [ ] **[Animations]**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
