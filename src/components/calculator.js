@@ -1,5 +1,6 @@
 import React from 'react';
 import './calculator.css';
+import Output from './output';
 
 const Calculator = () => {
   const btnValues = ['AC', '+/-', '%', '\u00F7', '7', '8', '9',
@@ -7,11 +8,7 @@ const Calculator = () => {
 
   return (
     <div className="calculator-grid">
-      <div className="output">
-        0
-        <div className="previous-operand" />
-        <div className="current-operand" />
-      </div>
+      <Output />
       {btnValues.map((value) => {
         if (value === '0') {
           return (
