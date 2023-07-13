@@ -27,6 +27,20 @@ body {
 .calculator-grid > .orange-button {
   background-color: rgb(253, 111, 17);
 }
+.calculator-grid > button:hover {
+  color: #fff;
+  cursor: pointer;
+  margin: 1rem;
+  height: 4rem;
+  text-align:center;
+
+}
+.calculator-grid > button:focus {
+  outline: none;
+}
+.calculator-grid > .orange-button:hover {
+  background-color: rgb(235, 88, 8);
+}
 
 .span-two {
   grid-column: span 2;
