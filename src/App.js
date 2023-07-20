@@ -1,13 +1,20 @@
+import { Routes, Route } from 'react-router-dom';
 import './App.css';
-import Calculator from './components/calculator';
-import Quotes from './components/Quotes';
+import Navbar from './components/Navbar';
+import routes from './components/routes';
 
 function App() {
   return (
-    <div className="App">
-      <Calculator />
-      <Quotes />
-    </div>
+    <>
+      <Navbar />
+      <div className="App">
+        <Routes>
+          {routes.map((route) => (
+            <Route key={route.id} path={route.path} element={route.element} />
+          ))}
+        </Routes>
+      </div>
+    </>
   );
 }
 
