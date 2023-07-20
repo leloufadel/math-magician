@@ -1,0 +1,12 @@
+.links {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #000;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
