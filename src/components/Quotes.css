@@ -1,0 +1,42 @@
+h1 {
+  color: rgb(17, 17, 17);
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.quotes-container {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.category {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color: #0e0d0d;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.author {
+  font-weight: bold;
+  font-size: 16px;
+  color: #777;
+}
+
+.error-message {
+  font-size: 18px;
+  color: red;
+  margin-top: 20px;
+  font-weight: bold;
+}

@@ -12,7 +12,7 @@ body {
   display: grid;
   margin-top: 2rem;
   grid-template-columns: repeat(4, 6rem);
-  grid-template-rows: minmax(7rem, auto) repeat(5, 6rem);
+  grid-template-rows: minmax(3rem, auto) repeat(4, 5rem);
   justify-content: center;
 }
 
