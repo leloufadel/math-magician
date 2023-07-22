@@ -151,7 +151,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 - GitHub: [@githubhandle](https://github.com/leloufadel)
 - Twitter: [@twitterhandle](https://twitter.com/leloufadel)
-
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/lala-aicha-el-vadel-8563a6202/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
